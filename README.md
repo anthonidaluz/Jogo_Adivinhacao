@@ -2,7 +2,7 @@
 
 Jogo de console desenvolvido na Academia do programador para praticar lógica de programação, estruturas de repetição (loops) e manipulação de vetores (arrays).
 
-![Demonstração do Jogo](./docs/gameplay.gif)
+![gameplay](https://github.com/user-attachments/assets/a14de76a-e4d9-4358-8c30-d65b1f372e6d)
 
 ## Como funciona o jogo?
 O sistema gera um número secreto aleatório e o jogador precisa adivinhar qual é.
