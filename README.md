@@ -2,7 +2,7 @@
 
 Jogo de console desenvolvido na Academia do programador para praticar lógica de programação, estruturas de repetição (loops) e manipulação de vetores (arrays).
 
-<img src="./docs/gameplay.gif" alt="Demonstração do Jogo de Adivinhação" width="100%">
+![Demonstração do Jogo](./docs/gameplay.gif)
 
 ## Como funciona o jogo?
 O sistema gera um número secreto aleatório e o jogador precisa adivinhar qual é.
